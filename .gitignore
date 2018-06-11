@@ -1,0 +1,28 @@
+# Junk files
+*.swp
+*.DS_Store
+[Tt]humbs.db
+/.idea
+
+# dotfiles repo
+.dotfiles/
+
+# env var files
+.env
+.env-*
+
+# RKE cluster files
+cluster.yml
+
+# Terraform state files
+.terraform
+*.tfstate
+*.tfstate*
+**/terraform.tfstate*
+config.tfvars
+
+# Ansible encryption
+.ansible_vault_pass
+
+# Generated templates
+generated/
