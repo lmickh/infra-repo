@@ -1,4 +1,4 @@
-| Loc Code | Provider | Region      | Service Leve | Notes |
+| Loc Code | Provider | Region      | Service Level | Notes |
 |----------|----------|-------------|--------------|-------|
 | am11     | AWS      | us-east-2   | prd          |       |
 | am12     | Azure    | eastus2     | prd          |       |
